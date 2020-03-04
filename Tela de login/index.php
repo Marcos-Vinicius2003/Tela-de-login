@@ -14,9 +14,5 @@
     <a href="cadastrar.php">Ainda não é inscrito?<strong>Cadastre-se!</strong>
     </form>
 </div>
-<?php
-
-
-?>
 </body> 
 </html>
